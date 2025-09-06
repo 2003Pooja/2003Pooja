@@ -7,7 +7,6 @@
 - Languages: Python, Java, JavaScript  
 - ML/AI: TensorFlow, Keras, Scikit-learn  
 - Web: Flask, HTML, CSS, JS 
-Soft Skills : Adaptability, Collaboration, Problem-Solving, Communication, Team Work.
 
 ## 📌 Featured Projects
 - 🔬 Glaucoma Detection using Deep Learning(https://github.com/2003Pooja/gluacoma_detection)
