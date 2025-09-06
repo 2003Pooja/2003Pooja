@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm Pooja G
 
-<!--
-**2003Pooja/2003Pooja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 ISE Graduate
 
-Here are some ideas to get you started:
+## 🛠️SKILLS 
+- Languages: Python, Java, JavaScript  
+- ML/AI: TensorFlow, Keras, Scikit-learn  
+- Web: Flask, HTML, CSS, JS 
+Soft Skills : Adaptability, Collaboration, Problem-Solving, Communication, Team Work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔬 Glaucoma Detection using Deep Learning(https://github.com/2003Pooja/gluacoma_detection)
+- ✏️ Employee Payroll System (https://github.com/2003Pooja/employee-payroll-system)
+
+## 📫 Connect with Me
+- LinkedIn(www.linkedin.com/in/pooja-g-423432281)
+- GitHub(https://github.com/2003Pooja)
+- Email(pooja19822003@gmail.com)
+
+
