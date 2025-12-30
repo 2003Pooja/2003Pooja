@@ -12,6 +12,7 @@
 - 🔬 Glaucoma Detection using Deep Learning(https://github.com/2003Pooja/gluacoma_detection)
 - ✏️ Employee Payroll System (https://github.com/2003Pooja/employee-payroll-system)
 - 🌾 Crop Recommendation System  (https://github.com/2003Pooja/crop-recommendation-system)
+- 🏨 Hotel Reservation Application(https://github.com/2003Pooja/hotel-reservation-app/tree/main)
 
 ## 📫 Connect with Me
 - LinkedIn(www.linkedin.com/in/pooja-g-423432281)
